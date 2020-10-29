@@ -1,0 +1,1 @@
+DLLPinCode component is my part of the coding process in BankSimul project. Client enters in his own RFID card to bank account using his own pin code.
