@@ -1,0 +1,9 @@
+In this page I gathered portfolio materials of the projects I made in school with group of students.
+This page doesn´t include all the things I´ve done but the ones that are worth of showing. :)
+
+This page includes:
+- Bank software poster & my part of coding (Pin code functionality)
+- Unity game project poster
+- Portable Game device project codes & Powerpoint materials
+
+In the Unity game project I made mostly graphics so I didn´t include them to this website but other projects I have codes in it.
